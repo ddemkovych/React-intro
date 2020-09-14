@@ -1,0 +1,47 @@
+body{
+  background-color: #3a1a12;
+}
+#conteiner {
+  margin-left:450px;
+  margin-top: 100px;
+  padding: 20px;
+  padding-left: 25px;
+  display: flex;
+  background-color: #38404d;
+  min-height: 300px;
+  width: 600px;
+  border-radius: 10px;
+  
+}
+
+#photo {
+  width: 70px;
+  height: 70px;
+  border-radius: 100%;
+}
+
+#main {
+  margin-left: 25px;
+}
+
+#image {
+  margin-top: 10px;
+  height: 280px;
+  border-radius: 20px;
+}
+
+#text {
+  margin-top: 5px;
+  color: white;
+}
+
+#header {
+  color: rgba(255, 255, 255, 0.5);
+  font-size: 16px;
+  flex-wrap: wrap;
+}
+
+span {
+  color: white;
+  font-size: 19px;
+}
